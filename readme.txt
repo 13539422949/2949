@@ -15,3 +15,5 @@ git commit -m "注释信息"
 
 状态
 git status 
+
+git log
