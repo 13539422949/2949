@@ -56,4 +56,4 @@ git remote rm origin git@github.com:13539422949/2949.git
 git push origin master 
 
 拉取远程库到本地
-git pull origin master
+git pull origin master --allow-unrelated-histories
